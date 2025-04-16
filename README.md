@@ -1,1 +1,1 @@
-# ST-Laba1
+# ST-Laba
